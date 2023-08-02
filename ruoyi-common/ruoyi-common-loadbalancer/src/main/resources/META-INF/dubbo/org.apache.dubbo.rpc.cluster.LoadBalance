@@ -1,1 +1,1 @@
-customDubboLoadBalancer=com.ruoyi.common.loadbalance.core.CustomDubboLoadBalancer
+customDubboLoadBalancer=com.mars.common.loadbalance.core.CustomDubboLoadBalancer

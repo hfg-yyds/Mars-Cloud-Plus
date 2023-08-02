@@ -1,1 +1,1 @@
-com.ruoyi.common.idempotent.config.IdempotentAutoConfiguration
+com.mars.common.idempotent.config.IdempotentAutoConfiguration

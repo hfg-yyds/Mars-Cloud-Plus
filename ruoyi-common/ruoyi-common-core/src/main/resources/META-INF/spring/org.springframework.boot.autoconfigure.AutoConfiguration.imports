@@ -1,5 +1,5 @@
-com.ruoyi.common.core.utils.SpringUtils
-com.ruoyi.common.core.config.ApplicationConfig
-com.ruoyi.common.core.config.JacksonConfig
-com.ruoyi.common.core.config.ValidatorConfig
-com.ruoyi.common.core.config.AsyncConfig
+com.mars.common.core.utils.SpringUtils
+com.mars.common.core.config.ApplicationConfig
+com.mars.common.core.config.JacksonConfig
+com.mars.common.core.config.ValidatorConfig
+com.mars.common.core.config.AsyncConfig

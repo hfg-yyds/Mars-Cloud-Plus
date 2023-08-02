@@ -1,2 +1,2 @@
 org.springframework.boot.env.EnvironmentPostProcessor=\
-  com.ruoyi.common.elasticsearch.config.ActuatorEnvironmentPostProcessor
+  com.mars.common.elasticsearch.config.ActuatorEnvironmentPostProcessor

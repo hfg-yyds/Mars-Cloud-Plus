@@ -1,1 +1,1 @@
-com.ruoyi.common.loadbalance.config.CustomLoadBalanceAutoConfiguration
+com.mars.common.loadbalance.config.CustomLoadBalanceAutoConfiguration

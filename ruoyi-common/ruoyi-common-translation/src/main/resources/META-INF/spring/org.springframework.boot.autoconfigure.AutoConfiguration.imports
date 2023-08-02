@@ -1,5 +1,5 @@
-com.ruoyi.common.translation.config.TranslationConfig
-com.ruoyi.common.translation.core.impl.DeptNameTranslationImpl
-com.ruoyi.common.translation.core.impl.DictTypeTranslationImpl
-com.ruoyi.common.translation.core.impl.OssUrlTranslationImpl
-com.ruoyi.common.translation.core.impl.UserNameTranslationImpl
+com.mars.common.translation.config.TranslationConfig
+com.mars.common.translation.core.impl.DeptNameTranslationImpl
+com.mars.common.translation.core.impl.DictTypeTranslationImpl
+com.mars.common.translation.core.impl.OssUrlTranslationImpl
+com.mars.common.translation.core.impl.UserNameTranslationImpl

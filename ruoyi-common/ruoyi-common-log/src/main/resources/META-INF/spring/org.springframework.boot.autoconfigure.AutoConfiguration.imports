@@ -1,2 +1,2 @@
-com.ruoyi.common.log.event.LogEventListener
-com.ruoyi.common.log.aspect.LogAspect
+com.mars.common.log.event.LogEventListener
+com.mars.common.log.aspect.LogAspect
